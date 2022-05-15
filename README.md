@@ -1,8 +1,8 @@
 # Exostealer
 
-Exostealer is a malware with a token grabber and keylogger 
-with support for adding custom malware payloads built in 
-Python 3
+Exostealer is a  token grabber and keylogger with 
+support for adding custom malware payloads built 
+in Python 3
 
 # Instructions
 
