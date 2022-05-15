@@ -1,8 +1,8 @@
 httpx
 psutil
+pynput
 pypiwin32
 requests
 pycryptodome
-pynput
 pyinstaller
 PIL-tools
